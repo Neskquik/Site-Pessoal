@@ -25,6 +25,12 @@ Página pessoal desenvolvida para apresentar o perfil **Nesk Developer**, reunin
 
 O objetivo deste projeto é criar uma página pessoal estilizada para centralizar links, apresentar a identidade do criador e oferecer uma experiência visual agradável para quem acessa o perfil.
 
+## ⚠️ Aviso sobre mídias
+
+Este projeto foi criado para fins pessoais e de estudo. A licença MIT se aplica apenas ao código-fonte desenvolvido neste repositório.
+
+Arquivos de mídia, como músicas, vídeos, imagens, GIFs e fontes de terceiros, pertencem aos seus respectivos autores e detentores de direitos.
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
